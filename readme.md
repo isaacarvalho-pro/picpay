@@ -26,3 +26,5 @@ O objetivo deste projeto é:
 - Banco de dados relacional 
 - Docker
 - Maven / Gradle  
+
+## 🚀 A meta é aprender e evoluir
